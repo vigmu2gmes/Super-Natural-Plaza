@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\solutions\win64\CMakeFiles\62bd67d88a9733f650730d7077cc52b1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E9EE5FD8-727C-3ECC-A65C-3D7A798B70CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\StdAfx.cpp" />
+    <ClCompile Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\solutions\win64\Code_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\solutions\win64\Components_uber.cpp">
+      <Filter>UBER FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\GamePlugin.cpp" />
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\GamePlugin.h" />
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\StdAfx.h" />
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\Components\Player.cpp">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\Components\Player.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\player\character.cpp">
+      <Filter>player</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\player\character.h">
+      <Filter>player</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\Code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\josep\Documents\CRYENGINE Projects\Super Natural Plaza\solutions\win64\Game.autogen.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Components">
+      <UniqueIdentifier>{0616690B-231E-3236-A993-951BF9DC0CEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{40C4779A-B92F-352D-95DB-049A9357508A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UBER FILES">
+      <UniqueIdentifier>{9C37E160-D429-345E-A007-C05EB1050BA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="player">
+      <UniqueIdentifier>{E5BA0C16-E45E-3CE0-A882-A8CC8B64101E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
